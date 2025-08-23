@@ -1,4 +1,5 @@
 - [x] https://www.anthropic.com/research/engineering-challenges-interpretability
+- [ ] https://transformer-circuits.pub/2023/monosemantic-features
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 - [ ] https://www.anthropic.com/research/tracing-thoughts-language-model
 - [ ] 
