@@ -1,8 +1,8 @@
-## From SRE to AI Infrastructure Engineer in 92 Days
+## From SRE to AI Infrastructure Engineer in 92 Days + ™
 
 🎯 **Mission**: Deploy large scale Infrastructure capable of efficiently running corporate LLM systems.
 
-📊 **Current Progress**: Day 13/92 | GPU utilization: 🙃  | Projects: 0/3 complete
+📊 **Current Progress**: Day 22/92 | GPU utilization: 🙃  | Projects: 0.5/3 complete
 
 🚀 **Target Outcome**: Highly sought and fulfilling career in AI starting out as a competent and skilled AI Infrastructure Engineer.
 
